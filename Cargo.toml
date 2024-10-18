@@ -1,0 +1,16 @@
+[package]
+name = "demiurge"
+version = "0.0.0"
+edition = "2021"
+
+license-file = "./LICENSE"
+description = "Demiurge - An all-round builder for accessible, sustainable and secure web services"
+homepage = "https://www.asternox.it/demiurge"
+repository = "https://github.com/EquineEngineer/Demiurge"
+readme = "./README.md"
+
+keywords = ["accessibility", "sustainability", "security"]
+
+categories = ["codegen"]
+
+[dependencies]

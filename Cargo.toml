@@ -11,6 +11,6 @@ readme = "./README.md"
 
 keywords = ["accessibility", "sustainability", "security"]
 
-categories = ["Accessibility", "WebAssembly", "GUI"]
+categories = ["accessibility", "wasm", "gui"]
 
 [dependencies]
